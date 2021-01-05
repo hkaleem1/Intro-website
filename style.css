@@ -1,0 +1,58 @@
+
+/*aligning text to center and adding space in the bottom*/
+h1, h2, h3, p {
+  text-align: center;
+  margin: 0;
+  padding-bottom: 10px;
+}
+
+/*setting up font for the  heading*/
+h1 {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 50px;
+}
+
+/*background color set*/
+header {
+  background-color: #6e6a6f;
+}
+
+body {
+  margin: 0;
+}
+
+/*placing picture*/
+img {
+  padding: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*setting up background color and space in the bottom*/
+article {
+  background-color: #bfafa6;
+  padding-bottom: 20px;
+}
+
+/*fixing bullets placements*/
+ul {
+  list-style-position: inside;
+}
+
+/*padding to put text in the center*/
+.intro ul, .about p {
+  padding: 0 30%;
+}
+
+/*padding to put text in the center*/
+.contact ul {
+  padding: 0 47%;
+}
+
+/*setting up color and size for footer*/
+footer {
+  padding-top: 5px;
+  height: 30px;
+  background-color: #6e6a6f;
+}
