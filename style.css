@@ -51,10 +51,10 @@ ul, ol {
 }
 
 /*pseudo-classes*/
-a:link    { color: blue;  }
-a:visited { color: red;   }
-a:hover   { color: black; }
-a:active  { color: cyan;  }
+a:link    { color: #00008A; }
+a:visited { color: #470000; }
+a:hover   { color: black;   }
+a:active  { color: #021F00; }
 
 /*setting up color and size for footer*/
 footer {
